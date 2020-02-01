@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/linked_list_by_c/.vs/linked_list_by_c/v16
+/linked_list_by_c/linked_list_by_c.vcxproj.user
+/linked_list_by_c/linked_list_by_c.vcxproj.filters
+/linked_list_by_c/linked_list_by_c.vcxproj
+/linked_list_by_c/linked_list_by_c.sln
+/linked_list_by_c/Debug
