@@ -1,3 +1,8 @@
+
+//	Created by ¸ðÕñ¶« on 2020/02/01.
+//  Copyright  2020 ¸ðÕñ¶«. All rights reserved.
+
+
 #define _CRT_SECURE_NO_WARNINGS
 #include "linked_list.h"
 #include "utils.h"

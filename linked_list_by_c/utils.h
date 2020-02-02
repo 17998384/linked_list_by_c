@@ -1,3 +1,7 @@
+
+//	Created by ¸ðÕñ¶« on 2020/02/01.
+//  Copyright  2020 ¸ðÕñ¶«. All rights reserved.
+
 #pragma once
 #include <stdio.h>
 

@@ -1,3 +1,7 @@
+
+//	Created by 葛振东 on 2020/02/01.
+//  Copyright  2020 葛振东. All rights reserved.
+
 #include "utils.h"
 /*
 	检查内存是否申请成功
